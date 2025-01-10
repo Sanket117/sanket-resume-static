@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  deploy: 
     name: Deploy to EC2 on main branch push
     runs-on: ubuntu-22.04
 
